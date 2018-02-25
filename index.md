@@ -17,6 +17,7 @@ koitaroh@csis.u-tokyo.ac.jp
 - [Twitter](https://twitter.com/koitaroh)
 - [Facebook](https://www.facebook.com/koitaroh)
 - [LinkedIn](https://www.linkedin.com/in/koitaroh/)
+- [GitHub](https://github.com/koitaroh)
 - [Medium](https://medium.com/@koitaroh)
 
 # Projects
