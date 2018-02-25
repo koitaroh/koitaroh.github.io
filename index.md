@@ -1,6 +1,6 @@
 # Satoshi Miyazawa
 
-![Profile Photo](https://koitaroh.github.io/files/avatar9.png)
+![Profile Photo](https://koitaroh.github.io/files/avatar9.png =250x)
 
 I am a Project Researcher at Center for Spatial Information Science, the University of Tokyo, Japan.
 My work focuses on on city-scale human mobility prediction with GPS and SNS.
