@@ -1,6 +1,6 @@
 ![Profile Photo](https://koitaroh.github.io/files/avatar9.png)
 
-I am a Project Researcher at Center for Spatial Information Science, the University of Tokyo, Japan. My work focuses on on city-scale human mobility prediction with GPS and SNS.
+I am a Project Researcher at Center for Spatial Information Science, the University of Tokyo, Japan. My work focuses on on city-scale human mobility analysis and prediction with GPS trajectories and SNS data.
 
 [Curriculum Vitae](https://koitaroh.github.io/files/Curriculum Vitae Satoshi Miyazawa.pdf)
 
