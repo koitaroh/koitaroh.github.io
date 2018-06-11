@@ -35,8 +35,5 @@ koitaroh@csis.u-tokyo.ac.jp
 
 ## 2018
 
+- **Satoshi Miyazawa**, Xuan Song, Tianqi Xia, Ryosuke Shibasaki, and Hodaka Kaneda. (2018) ‘Integrating GPS trajectory and topics from Twitter stream for human mobility estimation’, Frontiers of Computer Science, (c), pp. 1–11. doi: 10.1007/s11704-017-6464-3.
 - Renhe Jiang, Xuan Song, Zipei Fan, Tianqi Xia, Quanjun Chen, **Satoshi Miyazawa**, and Ryosuke Shibasaki, (2018) ‘DeepUrbanMomentum : An Online Deep-Learning System for Short-Term Urban Mobility Prediction’. In Proceedings of the 32nd AAAI Conference (**AAAI 2018**)
-
-## 2017
-
-- **Satoshi Miyazawa**, Xuan Song, Tianqi Xia, Ryosuke Shibasaki, and Hodaka Kaneda. 2017. Integrating GPS trajectory and topics from Twitter stream for human mobility estimation. Frontiers of Computer Science. (Accepted: 2017-04-13) DOI: 10.1007/s11704-017-6464-3
