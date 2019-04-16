@@ -35,7 +35,7 @@ koitaroh@csis.u-tokyo.ac.jp
 
 ## 2019
 
-- KE Seetha Ram and **Satoshi Miyazawa**. (2019) 'Unlocking the spillover effect of Infrastructure and improving quality of life : new insights for private sector investment in developing countries in Asia'. In Proceedings of the 8th CECAR.
+- KE Seetha Ram and **Satoshi Miyazawa**. (2019) 'Unlocking the spillover effect of Infrastructure and improving quality of life : new insights for private sector investment in developing countries in Asia'. In Proceedings of the 8th Civil Engineering Conference in the Asian Region (CECAR).
 
 ## 2018
 
