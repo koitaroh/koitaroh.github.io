@@ -33,6 +33,10 @@ koitaroh@csis.u-tokyo.ac.jp
 
 # Publications
 
+## 2019
+
+- KE Seetha Ram and **Satoshi Miyazawa**. (2019) 'Unlocking the spillover effect of Infrastructure and improving quality of life : new insights for private sector investment in developing countries in Asia'. In Proceedings of the 8th CECAR.
+
 ## 2018
 
 - **Satoshi Miyazawa**, Xuan Song, Tianqi Xia, Ryosuke Shibasaki, and Hodaka Kaneda. (2018) ‘Integrating GPS trajectory and topics from Twitter stream for human mobility estimation’, Frontiers of Computer Science, (c), pp. 1–11. doi: 10.1007/s11704-017-6464-3.
