@@ -35,10 +35,11 @@ koitaroh@csis.u-tokyo.ac.jp
 
 ## 2019
 
+- Ryosuke Kobayashi, **Satoshi Miyazawa**, Yuki Akiyama, and Ryosuke Shibasaki. (2019) 'Identification of the Homes , Offices , and Schools from Long-Interval Mobile Phone Big Data Using Mobility Pattern Clustering'. In P. Kyriakidis, D. Hadjimitsis, D. Skarlatos, & A. Mansourian (Eds.), Accepted Short Papers and Posters from the 22nd AGILE Conference on Geo-information Science (pp. 1–5). Limassol, Cyprus: Stichting AGILE.
 - KE Seetha Ram and **Satoshi Miyazawa**. (2019) 'Unlocking the spillover effect of Infrastructure and improving quality of life : new insights for private sector investment in developing countries in Asia'. In Proceedings of the 8th Civil Engineering Conference in the Asian Region (CECAR).
+- **Satoshi Miyazawa**, Xuan Song, Tianqi Xia, Ryosuke Shibasaki, and Hodaka Kaneda. (2019) ‘Integrating GPS trajectory and topics from Twitter stream for human mobility estimation’, Frontiers of Computer Science, 13(3), 460-470. doi: 10.1007/s11704-017-6464-3.
+    - [GitHub](https://github.com/koitaroh/twitter-topic-mobility-estimation)
 
 ## 2018
 
-- **Satoshi Miyazawa**, Xuan Song, Tianqi Xia, Ryosuke Shibasaki, and Hodaka Kaneda. (2018) ‘Integrating GPS trajectory and topics from Twitter stream for human mobility estimation’, Frontiers of Computer Science, (c), pp. 1–11. doi: 10.1007/s11704-017-6464-3.
-    - [GitHub](https://github.com/koitaroh/twitter-topic-mobility-estimation)
-- Renhe Jiang, Xuan Song, Zipei Fan, Tianqi Xia, Quanjun Chen, **Satoshi Miyazawa**, and Ryosuke Shibasaki, (2018) ‘DeepUrbanMomentum : An Online Deep-Learning System for Short-Term Urban Mobility Prediction’. In Proceedings of the 32nd AAAI Conference (**AAAI 2018**)
+- Renhe Jiang, Xuan Song, Zipei Fan, Tianqi Xia, Quanjun Chen, **Satoshi Miyazawa**, and Ryosuke Shibasaki. (2018) ‘DeepUrbanMomentum : An Online Deep-Learning System for Short-Term Urban Mobility Prediction’. In Proceedings of the 32nd AAAI Conference (**AAAI 2018**)
