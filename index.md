@@ -1,6 +1,6 @@
 ![Profile Photo](https://koitaroh.github.io/files/avatar9.png)
 
-I am a Project Researcher at Center for Spatial Information Science, the University of Tokyo, Japan. My work focuses on on city-scale human mobility analysis and prediction with GPS trajectories and SNS data. I am also a Project Consultant at Asian Development Bank Institute working on modeling spatiotemporal urban spillover effect of high speed rail infrastructure development.
+I am a Project Researcher at the Center for Spatial Information Science, the University of Tokyo, Japan. My work focuses on city-scale human mobility analysis and prediction with GPS trajectories and SNS data. I am also a Project Consultant at Asian Development Bank Institute working on modeling spatiotemporal urban spillover effect of high-speed rail infrastructure development.
 
 [Curriculum Vitae](https://koitaroh.github.io/files/Curriculum Vitae Satoshi Miyazawa.pdf)
 
