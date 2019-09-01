@@ -5,9 +5,9 @@ I am a Project Researcher at Center for Spatial Information Science, the Univers
 [Curriculum Vitae](https://koitaroh.github.io/files/Curriculum Vitae Satoshi Miyazawa.pdf)
 
 # Contact
-Center for Spatial Information Science, the University of Tokyo\
-5-1-5 Kashiwanoha, Kashiwa-shi, Chiba 277-0871 Japan\
-Kashiwa Research Complex 456\
+Center for Spatial Information Science, the University of Tokyo
+
+5-1-5 Kashiwanoha, Kashiwa Research Complex 456, Kashiwa, Chiba 277-8568, Japan
 
 koitaroh@csis.u-tokyo.ac.jp
 
