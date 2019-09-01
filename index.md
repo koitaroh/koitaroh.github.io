@@ -5,9 +5,9 @@ I am a Project Researcher at Center for Spatial Information Science, the Univers
 [Curriculum Vitae](https://koitaroh.github.io/files/Curriculum Vitae Satoshi Miyazawa.pdf)
 
 # Contact
-Center for Spatial Information Science
-The University of Tokyo
+Center for Spatial Information Science, the University of Tokyo
 5-1-5 Kashiwanoha, Kashiwa-shi, Chiba 277-0871 Japan
+Kashiwa Research Complex 456
 
 koitaroh@csis.u-tokyo.ac.jp
 
@@ -22,12 +22,12 @@ koitaroh@csis.u-tokyo.ac.jp
 ## Current Projects
 
 - City-scale human mobility prediction model by integrating GPS trajectories and SNS data (dissertation theme)
-- Extracting urban QOL indicators from GPS trajectories
+- Extracting Urban Mobility QoL Indicators and Individual Activity Pattern from Mobile Phone-based Human Mobility Trajectories
 - Modeling spatiotemporal urban spillover effect of high speed rail infrastructure development
 
 ## Previous Projects
 
-- Using remote sensing to assess the damage mitigation effect of coastal forest in Sanriku coast and classification of the damage of coastal forest caused by the 2011 Tohoku Tsunami(2012)(http://www.koitaroh.com/2012/02/presentationusing-remote-sensing-to.html)
+- Using remote sensing to assess the damage mitigation effect of coastal forest in Sanriku coast and classification of the damage of coastal forest caused by the 2011 Tohoku Tsunami(2012)
 - Modeling and analyzing the possible human trafficking routes in Arizona-Mexico border, including non-traditional transportation
 
 
@@ -35,6 +35,7 @@ koitaroh@csis.u-tokyo.ac.jp
 
 ## 2019
 
+- **Satoshi Miyazawa**, Ryosuke Kobayashi, Yuki Akiyama and Ryosuke Shibasaki (2019) 'Extracting Urban Mobility QoL Indicators and Individual Activity Pattern from Mobile Phone-based Human Mobility Trajectories', The symposium of the International Association of Geo-informatics (IAG'i).
 - Ryosuke Kobayashi, **Satoshi Miyazawa**, Yuki Akiyama, and Ryosuke Shibasaki. (2019) 'Identification of the Homes , Offices , and Schools from Long-Interval Mobile Phone Big Data Using Mobility Pattern Clustering'. In P. Kyriakidis, D. Hadjimitsis, D. Skarlatos, & A. Mansourian (Eds.), Accepted Short Papers and Posters from the 22nd AGILE Conference on Geo-information Science (pp. 1–5). Limassol, Cyprus: Stichting AGILE.
 - KE Seetha Ram and **Satoshi Miyazawa**. (2019) 'Unlocking the spillover effect of Infrastructure and improving quality of life : new insights for private sector investment in developing countries in Asia'. In Proceedings of the 8th Civil Engineering Conference in the Asian Region (CECAR).
 - **Satoshi Miyazawa**, Xuan Song, Tianqi Xia, Ryosuke Shibasaki, and Hodaka Kaneda. (2019) ‘Integrating GPS trajectory and topics from Twitter stream for human mobility estimation’, Frontiers of Computer Science, 13(3), 460-470. doi: 10.1007/s11704-017-6464-3.
