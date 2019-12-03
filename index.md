@@ -34,7 +34,7 @@ koitaroh@csis.u-tokyo.ac.jp
 # Publications
 
 ## 2019
-
+- Tianqi Xia, **Satoshi Miyazawa**, Xuan Song, Yuki Akiyama, Renhe Jiang, Kyoung-sook Kim and Ryosuke Shibasaki (2019) ‘Mining heatstroke hotspot for inbound tourists in Tokyo’ The symposium of the International Association of Geo-informatics (IAG'i).
 - **Satoshi Miyazawa**, Ryosuke Kobayashi, Yuki Akiyama and Ryosuke Shibasaki (2019) 'Extracting Urban Mobility QoL Indicators and Individual Activity Pattern from Mobile Phone-based Human Mobility Trajectories', The symposium of the International Association of Geo-informatics (IAG'i).
 - Ryosuke Kobayashi, **Satoshi Miyazawa**, Yuki Akiyama, and Ryosuke Shibasaki. (2019) 'Identification of the Homes , Offices , and Schools from Long-Interval Mobile Phone Big Data Using Mobility Pattern Clustering'. In P. Kyriakidis, D. Hadjimitsis, D. Skarlatos, & A. Mansourian (Eds.), Accepted Short Papers and Posters from the 22nd AGILE Conference on Geo-information Science (pp. 1–5). Limassol, Cyprus: Stichting AGILE.
 - KE Seetha Ram and **Satoshi Miyazawa**. (2019) 'Unlocking the spillover effect of Infrastructure and improving quality of life : new insights for private sector investment in developing countries in Asia'. In Proceedings of the 8th Civil Engineering Conference in the Asian Region (CECAR).
