@@ -1,15 +1,14 @@
 ![Profile Photo](https://koitaroh.github.io/files/avatar9.png)
 
-I am a Project Researcher at the Center for Spatial Information Science, the University of Tokyo, Japan. My work focuses on city-scale human mobility analysis and prediction with GPS trajectories and SNS data. I am also a Project Consultant at Asian Development Bank Institute working on modeling spatiotemporal urban spillover effect of high-speed rail infrastructure development.
+I am an Engineer at LocationMind Inc., Tokyo, Japan. My work focuses on human mobility analysis and modeling using mobile phone trajectory data. I am also a Project Consultant at Asian Development Bank Institute working on modeling spatiotemporal urban spillover effect of high-speed rail infrastructure development.
 
 [Curriculum Vitae](https://koitaroh.github.io/files/Curriculum Vitae Satoshi Miyazawa.pdf)
 
 # Contact
-Center for Spatial Information Science, the University of Tokyo
+LocationMind Inc.
+The Gate Akihabara 701, 3-5-2, Iwamoto-cho, Chiyoda-ku, Tokyo, 101-0032 Japan
 
-5-1-5 Kashiwanoha, Kashiwa Research Complex 456, Kashiwa, Chiba 277-8568, Japan
-
-koitaroh@csis.u-tokyo.ac.jp
+miyazawa@locationmind.com
 
 - [Twitter](https://twitter.com/koitaroh)
 - [Facebook](https://www.facebook.com/koitaroh)
@@ -29,7 +28,6 @@ koitaroh@csis.u-tokyo.ac.jp
 
 - Using remote sensing to assess the damage mitigation effect of coastal forest in Sanriku coast and classification of the damage of coastal forest caused by the 2011 Tohoku Tsunami(2012)
 - Modeling and analyzing the possible human trafficking routes in Arizona-Mexico border, including non-traditional transportation
-
 
 # Publications
 
