@@ -1,6 +1,6 @@
 ![Profile Photo](https://koitaroh.github.io/files/avatar9.png)
 
-I am an Engineer at LocationMind Inc., Tokyo, Japan. My work focuses on human mobility analysis and modeling using mobile phone trajectory data. I am also a Project Consultant at Asian Development Bank Institute working on modeling spatiotemporal urban spillover effect of high-speed rail infrastructure development.
+I am an Engineer at LocationMind Inc., Tokyo, Japan. My work focuses on human mobility analysis and modeling using mobile phone trajectory data.
 
 [Curriculum Vitae](https://koitaroh.github.io/files/Curriculum Vitae Satoshi Miyazawa.pdf)
 
