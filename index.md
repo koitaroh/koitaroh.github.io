@@ -33,6 +33,7 @@ miyazawa@locationmind.com
 
 ## 2020
 - **Miyazawa, S.**, Song, X., Jiang, R., Fan, Z., Shibasaki, R., and Sato, T.: CITY-SCALE HUMAN MOBILITY PREDICTION MODEL BY INTEGRATING GNSS TRAJECTORIES AND SNS DATA USING LONG SHORT-TERM MEMORY, ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., V-4-2020, 87–94, https://doi.org/10.5194/isprs-annals-V-4-2020-87-2020, 2020.
+- Ayumi Arai, Apichon Witayangkurn, Hiroshi Kanasugi, Zipei Fan, Wataru Ohira, Silvino Pedro Cumbane, **Satoshi Miyazawa**, Saurav Ranjit, Mohamed Batran, and Ryosuke Shibasaki. (2020). Building a data ecosystem for using telecom data to inform the COVID-19 response efforts. Presented at the Data for Policy, Zenodo. http://doi.org/10.5281/zenodo.4291329
 
 ## 2019
 - Tianqi Xia, **Satoshi Miyazawa**, Xuan Song, Yuki Akiyama, Renhe Jiang, Kyoung-sook Kim and Ryosuke Shibasaki (2019) ‘Mining heatstroke hotspot for inbound tourists in Tokyo’ The symposium of the International Association of Geo-informatics (IAG'i).
