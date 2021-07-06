@@ -1,6 +1,6 @@
 ![Profile Photo](https://koitaroh.github.io/files/avatar9.png)
 
-I am an Engineer at LocationMind Inc., Tokyo, Japan. My work focuses on human mobility analysis and modeling using mobile phone trajectory data.
+I work on business development at LocationMind Inc., Tokyo, Japan. My work focuses on delivering geospatial solutions (mobile big data, IoT, and satellite intelligence) to customers worldwide.
 
 [Curriculum Vitae](https://koitaroh.github.io/files/Curriculum Vitae Satoshi Miyazawa.pdf)
 
