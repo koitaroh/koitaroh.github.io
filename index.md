@@ -1,4 +1,4 @@
-![Profile Photo](https://koitaroh.github.io/files/avatar12.jpg)
+![Profile Photo](https://koitaroh.github.io/files/avatar14.jpeg)
 
 I work on business development at LocationMind Inc., Tokyo, Japan. My work focuses on delivering geospatial solutions (mobile big data, IoT, and satellite intelligence) to customers worldwide.
 
