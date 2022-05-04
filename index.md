@@ -32,6 +32,9 @@ miyazawa@locationmind.com
 
 # Publications
 
+## 2022
+- Kanamori, Rie, Yuta Kawakami, Shuko Nojiri, **Satoshi Miyazawa**, Manabu Kuroki, and Yuji Nishizaki. 2022. “Changes in Social Environment Due to the State of Emergency and Go To Campaign during the COVID-19 Pandemic in Japan: An Ecological Study.” Edited by Michele Tizzoni. PLOS ONE 17 (4): e0267395. https://doi.org/10.1371/journal.pone.0267395.
+
 ## 2021
 - Nakanishi, Miharu, Ryosuke Shibasaki, Syudo Yamasaki, **Satoshi Miyazawa**, Satoshi Usami, Hiroshi Nishiura, and Atsushi Nishida. 2021. “COVID-19 and On-Site Dining in Tokyo: A Time-Series Analysis Using Mobile Phone Location Data (Preprint).” JMIR MHealth and UHealth, January. https://doi.org/10.2196/27342.
 
