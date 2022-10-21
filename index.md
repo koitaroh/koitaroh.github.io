@@ -33,10 +33,12 @@ miyazawa@locationmind.com
 # Publications
 
 ## 2022
+- Okada, K., Nishiyama, N., Akiyama, Y., Miyazaki, H., & **Miyazawa, S.** (2022). DEVELOPMENT OF DETAILED BUILDING DISTRIBUTION MAP TO SUPPORT SMART CITY PROMOTION -AN APPROACH USING SATELLITE IMAGE AND DEEP LEARNING–. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, X-4/W3-2022, 189–196. https://doi.org/10.5194/isprs-annals-X-4-W3-2022-189-2022
+- Nakamoto, D., Nojiri, S., Taguchi, C., Kawakami, Y., **Miyazawa, S.**, Kuroki, M., & Nishizaki, Y. (2022). The impact of declaring the state of emergency on human mobility during COVID-19 pandemic in Japan. Clinical Epidemiology and Global Health, 17, 101149. https://doi.org/10.1016/j.cegh.2022.101149
 - Kanamori, Rie, Yuta Kawakami, Shuko Nojiri, **Satoshi Miyazawa**, Manabu Kuroki, and Yuji Nishizaki. 2022. “Changes in Social Environment Due to the State of Emergency and Go To Campaign during the COVID-19 Pandemic in Japan: An Ecological Study.” Edited by Michele Tizzoni. PLOS ONE 17 (4): e0267395. https://doi.org/10.1371/journal.pone.0267395.
 
 ## 2021
-- Nakanishi, Miharu, Ryosuke Shibasaki, Syudo Yamasaki, **Satoshi Miyazawa**, Satoshi Usami, Hiroshi Nishiura, and Atsushi Nishida. 2021. “COVID-19 and On-Site Dining in Tokyo: A Time-Series Analysis Using Mobile Phone Location Data (Preprint).” JMIR MHealth and UHealth, January. https://doi.org/10.2196/27342.
+- Miharu Nakanishi, Ryosuke Shibasaki, Syudo Yamasaki, **Satoshi Miyazawa**, Satoshi Usami, Hiroshi Nishiura, and Atsushi Nishida. 2021. “COVID-19 and On-Site Dining in Tokyo: A Time-Series Analysis Using Mobile Phone Location Data (Preprint).” JMIR MHealth and UHealth, January. https://doi.org/10.2196/27342.
 
 ## 2020
 - **Miyazawa, S.**, Song, X., Jiang, R., Fan, Z., Shibasaki, R., and Sato, T.: CITY-SCALE HUMAN MOBILITY PREDICTION MODEL BY INTEGRATING GNSS TRAJECTORIES AND SNS DATA USING LONG SHORT-TERM MEMORY, ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci., V-4-2020, 87–94, https://doi.org/10.5194/isprs-annals-V-4-2020-87-2020, 2020.
