@@ -6,8 +6,7 @@ I work on business development at LocationMind Inc., Tokyo, Japan. My work focus
 
 # Contact
 LocationMind Inc.
-The Gate Akihabara 701, 3-5-2, Iwamoto-cho, Chiyoda-ku, Tokyo, 101-0032 Japan
-
+4F, PMO Kanda Tsukasa-machi Building, 2-8-1 Kanda Tsukasa-machi, Chiyoda-ku, Tokyo 101-0048, Japan
 miyazawa@locationmind.com
 
 - [Twitter](https://twitter.com/koitaroh)
@@ -22,15 +21,19 @@ miyazawa@locationmind.com
 
 - City-scale human mobility prediction model by integrating GPS trajectories and SNS data (dissertation theme)
 - Extracting Urban Mobility QoL Indicators and Individual Activity Pattern from Mobile Phone-based Human Mobility Trajectories
-- Modeling spatiotemporal urban spillover effect of high speed rail infrastructure development
 
 ## Previous Projects
 
 - Estimating Changes of Expenditures Attributed to Human Mobility Changes (2021) https://www.covid19-ai.jp/en-us/organization/csis/articles/article002
 - Using remote sensing to assess the damage mitigation effect of coastal forest in Sanriku coast and classification of the damage of coastal forest caused by the 2011 Tohoku Tsunami(2012)
 - Modeling and analyzing the possible human trafficking routes in Arizona-Mexico border, including non-traditional transportation
+- Modeling spatiotemporal urban spillover effect of high speed rail infrastructure development
 
 # Publications
+
+## 2023
+
+- Kawakami, Y., Nojiri, S., Nakamoto, D., Irie, Y., **Miyazawa, S.**, Kuroki, M., & Nishizaki, Y. (2023). Novel indicator for the spread of new coronavirus disease 2019 and its association with human mobility in Japan. Scientific Reports, 13(1), 115. https://doi.org/10.1038/s41598-022-27322-4
 
 ## 2022
 - Okada, K., Nishiyama, N., Akiyama, Y., Miyazaki, H., & **Miyazawa, S.** (2022). DEVELOPMENT OF DETAILED BUILDING DISTRIBUTION MAP TO SUPPORT SMART CITY PROMOTION -AN APPROACH USING SATELLITE IMAGE AND DEEP LEARNING–. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, X-4/W3-2022, 189–196. https://doi.org/10.5194/isprs-annals-X-4-W3-2022-189-2022
