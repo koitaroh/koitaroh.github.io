@@ -33,6 +33,7 @@ miyazawa@locationmind.com
 
 ## 2023
 
+- Chen, J., Shi, X., Zhang, H., Li, W., Li, P., Yao, Y., **Miyazawa, S.**, Song, X., & Shibasaki, R. (2023). MobCovid: Confirmed Cases Dynamics Driven Time Series Prediction of Crowd in Urban Hotspot. IEEE Transactions on Neural Networks and Learning Systems, 1–14. https://doi.org/10.1109/TNNLS.2023.3268291
 - Kawakami, Y., Nojiri, S., Nakamoto, D., Irie, Y., **Miyazawa, S.**, Kuroki, M., & Nishizaki, Y. (2023). Novel indicator for the spread of new coronavirus disease 2019 and its association with human mobility in Japan. Scientific Reports, 13(1), 115. https://doi.org/10.1038/s41598-022-27322-4
 
 ## 2022
