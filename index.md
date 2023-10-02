@@ -1,6 +1,6 @@
 ![Profile Photo](https://koitaroh.github.io/files/avatar14.jpeg)
 
-I work as Product Manager at LocationMind Inc., Tokyo, Japan. My work focuses on delivering geospatial solutions (mobile big data, IoT, and satellite intelligence) to customers worldwide.
+I work as a Product Manager at LocationMind Inc., Tokyo, Japan. My work focuses on managing Geospatial AI SaaS products (e.g. LocationMind xPop, Smart Planning tools).
 
 [Curriculum Vitae](https://koitaroh.github.io/files/Curriculum Vitae Satoshi Miyazawa.pdf)
 
