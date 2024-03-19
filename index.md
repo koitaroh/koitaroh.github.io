@@ -17,13 +17,13 @@ miyazawa@locationmind.com
 
 # Projects
 
-## Current Projects
+<!-- ## Current Projects -->
 
-- City-scale human mobility prediction model by integrating GPS trajectories and SNS data (dissertation theme)
-- Extracting Urban Mobility QoL Indicators and Individual Activity Pattern from Mobile Phone-based Human Mobility Trajectories
 
 ## Previous Projects
 
+- City-scale human mobility prediction model by integrating GPS trajectories and SNS data (dissertation theme)
+- Extracting Urban Mobility QoL Indicators and Individual Activity Pattern from Mobile Phone-based Human Mobility Trajectories
 - Estimating Changes of Expenditures Attributed to Human Mobility Changes (2021) https://www.covid19-ai.jp/en-us/organization/csis/articles/article002
 - Using remote sensing to assess the damage mitigation effect of coastal forest in Sanriku coast and classification of the damage of coastal forest caused by the 2011 Tohoku Tsunami(2012)
 - Modeling and analyzing the possible human trafficking routes in Arizona-Mexico border, including non-traditional transportation
