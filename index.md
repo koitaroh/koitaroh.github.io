@@ -31,6 +31,9 @@ miyazawa@locationmind.com
 
 # Publications
 
+## 2024
+- Maneepong, K., Yamanotera, R., Akiyama, Y., Miyazaki, H., **Miyazawa, S.**, & Akiyama, C. M. (2024). Open Data-Driven 3D Building Models for Micro-Population Mapping in a Data-Limited Setting. Remote Sensing, 16(21), 3922. https://doi.org/10.3390/rs16213922
+
 ## 2023
 
 - Chen, J., Shi, X., Zhang, H., Li, W., Li, P., Yao, Y., **Miyazawa, S.**, Song, X., & Shibasaki, R. (2023). MobCovid: Confirmed Cases Dynamics Driven Time Series Prediction of Crowd in Urban Hotspot. IEEE Transactions on Neural Networks and Learning Systems, 1–14. https://doi.org/10.1109/TNNLS.2023.3268291
