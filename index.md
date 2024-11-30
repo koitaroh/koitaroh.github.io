@@ -9,16 +9,15 @@ LocationMind Inc.
 4F, PMO Kanda Tsukasa-machi Building, 2-8-1 Kanda Tsukasa-machi, Chiyoda-ku, Tokyo 101-0048, Japan
 miyazawa@locationmind.com
 
-- [Twitter](https://twitter.com/koitaroh)
 - [Facebook](https://www.facebook.com/koitaroh)
 - [LinkedIn](https://www.linkedin.com/in/koitaroh/)
 - [GitHub](https://github.com/koitaroh)
 - [Medium](https://medium.com/@koitaroh)
+- [Blusky](https://bsky.app/profile/koitaroh.bsky.social)
+- [X](https://x.com/koitaroh)
 
 # Projects
-
-<!-- ## Current Projects -->
-
+- Realizing Micro Population Data at the Building Scale in Developing Countries Using Satellite Image and AI
 
 ## Previous Projects
 
