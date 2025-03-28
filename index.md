@@ -16,6 +16,12 @@ miyazawa@locationmind.com
 - [Blusky](https://bsky.app/profile/koitaroh.bsky.social)
 - [X](https://x.com/koitaroh)
 
+# Research Interests
+- Urban Computing
+- Human Mobility
+- Urban Brain
+- Digital Earth
+
 # Projects
 - Realizing Micro Population Data at the Building Scale in Developing Countries Using Satellite Image and AI
 
