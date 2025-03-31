@@ -36,6 +36,9 @@ miyazawa@locationmind.com
 
 # Publications
 
+## 2025
+- Maneepong, K., Yamanotera, R., Akiyama, Y., Miyazaki, H., **Miyazawa, S.**, & Akiyama, C. M. (2025). Towards High-Resolution Population Mapping: Leveraging Open Data, Remote Sensing, and AI for Geospatial Analysis in Developing Country Cities—A Case Study of Bangkok. Remote Sensing, 17(7), 1204. https://doi.org/10.3390/rs17071204
+
 ## 2024
 - Maneepong, K., Yamanotera, R., Akiyama, Y., Miyazaki, H., **Miyazawa, S.**, & Akiyama, C. M. (2024). Open Data-Driven 3D Building Models for Micro-Population Mapping in a Data-Limited Setting. Remote Sensing, 16(21), 3922. https://doi.org/10.3390/rs16213922
 
