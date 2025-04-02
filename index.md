@@ -1,6 +1,6 @@
 ![Profile Photo](https://koitaroh.github.io/files/avatar14.jpeg)
 
-I work as a Product Manager at LocationMind Inc., Tokyo, Japan. My work focuses on managing Geospatial AI SaaS products (e.g. LocationMind xPop, Smart Planning tools).
+I work as a Senior Solution Engineer at LocationMind Inc., Tokyo, Japan. My work focuses on developing Geospatial AI solutions (e.g. LocationMind xPop, Smart Planning tools).
 
 [Curriculum Vitae](https://koitaroh.github.io/files/Curriculum Vitae Satoshi Miyazawa.pdf)
 
